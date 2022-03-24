@@ -1,8 +1,15 @@
 body{
-	background : #CCFFCC;
+	background : #1ccf85;
+    style="font-weight:bold;
+    font-family:"UD デジタル 教科書体","ＭＳ 明朝",sans-serif;
 }
-h1{
+h2{
 	color:red;
 	background : #FFFFCC;
 	text-align : center;
+}
+
+p{
+    text-align: center;
+    font-weight:bold;
 }
