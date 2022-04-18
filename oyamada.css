@@ -1,0 +1,35 @@
+body{
+    width : 95%;
+    background-image : url(img/neko.jpg);
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+h1{
+    text-align : center;
+    color : aquamarine;
+}
+.name{
+    color : aqua;
+}
+.syusin{
+    color : aqua;
+}
+.syumi{
+    color : aqua;
+}
+.like{
+    color : aqua;
+}
+.container{
+    text-align : center;
+    display : grid;
+    grid-template-columns : 1fr 1fr 1fr;
+    gap : 10px;
+    grid-template-rows : 200px 200px;
+}
+p{
+    font-size : 20px;
+}
+footer{
+    text-align : center;
+}
